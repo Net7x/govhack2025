@@ -1,7 +1,6 @@
 # Leaflet Map App
 
 A React application featuring an interactive Leaflet map with multiple layers.
-
 ## Features
 
 - Interactive Leaflet map with multiple base layers:
