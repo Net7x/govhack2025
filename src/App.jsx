@@ -141,7 +141,7 @@ const App = () => {
         fontWeight: 'bold',
         color: '#333'
       }}>
-        Data Center Compass
+        Data Centre Compass
       </div>
       <div style={{ 
         position: 'absolute', 
